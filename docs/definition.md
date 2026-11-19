@@ -1,3 +1,10 @@
+# Definition
+## Doestellingen
+## Materiaal & methoden
+## Resultaten
+## Conclusies & implicaties
+
+
 [← Terug naar hoofdpagina](../README.md)
 
 # Definition
